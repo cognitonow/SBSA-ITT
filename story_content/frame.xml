@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Inward Telegraphic Transfers " />
+              <option name="title_text" value="SWIFT Basics MT103 and MT202" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -65,11 +65,6 @@
           <option name="search" value="false" />
           <option name="pauseplay" value="false" />
           <option name="replay" value="false" />
-          <option name="closed_captions" value="true">
-            <options>
-              <option name="font" value="Open Sans" />
-            </options>
-          </option>
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1170,40 +1165,24 @@
             <slidelink slideid="_player.6KwpULPB19s.6m2V1zcsKsw" displaytext="Coffee page" expand="false" type="slide" />
             <slidelink slideid="_player.6KwpULPB19s.5cl7bnjS8qX" displaytext="Home page" expand="false" type="slide" />
             <slidelink slideid="_player.6KwpULPB19s.5nyT65bGrs7" displaytext="Home page2" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5WNqiHAzUBu" displaytext="ITT home 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5pzDr6eXJcp" displaytext="Home page3" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5hWB12RMFN2" displaytext="Last Home page" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.5mNNnuurCjw" displaytext="Home page3" expand="false" type="slide" />
             <slidelink slideid="_player.6KwpULPB19s.5axYJSc47qz" displaytext="Photos and Forms" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5Z1IAMcBj6r" displaytext="The Role" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5xyffoVn9Uk" displaytext="SB3 content" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.62DlQYmQ0gg" displaytext="Parties to an International" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5bNTR7NpMLN" displaytext="SB3 email 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5iZC51UjdM7" displaytext="Self check phone rings" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6ZIishhHQI4" displaytext="Payment Methodss" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5ajMsCwRxuX" displaytext="Self Check 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6WsL2zj2lKs" displaytext="Self Check 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5rP6PfVz9b8" displaytext="Self Check 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5tDCDiXrSlB" displaytext="Self Check 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5bY1YBzxDTv" displaytext="SB3 - Self Check 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6DwPMvBc8PC" displaytext="SB3 - Self Check 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6OW0x6puV0t" displaytext="SB3 - Self Check 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.69WbOZRJ1pv" displaytext="SB3 - Self Check 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5aYkbra0p0P" displaytext="SB3 - Self Check 5" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6rYUnOlpO40" displaytext="SB3 - Self Check 6" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6O1gaWDORyk" displaytext="SB3 - Self Check 7" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6ps5hUsrgC6" displaytext="Self Check 5" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5YvPijpm8Ye" displaytext="Self Check 6" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6nMLThw9hHc" displaytext="SB2 - High level process" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6Tw8eMFO0Fq" displaytext="SB2 - Policies " expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6oGW3gLPFfT" displaytext="Payment Flow" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.682pyVZrcwh" displaytext="SB2 - Self CheckSel" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6nMLThw9hHc" displaytext="SWIFT MT202 - Email 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.5jLv9zCAvjd" displaytext="conclution email" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.5i4ZRBL7SOJ" displaytext="section email 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6Tw8eMFO0Fq" displaytext="SWIFT MT202 - Email 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.62h8LNHA6uO" displaytext="SWIFT MT202 - Email 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6U3at8ejPtN" displaytext="SWIFT MT202 - Email 4" expand="false" type="slide" />
             <slidelink slideid="_player.6KwpULPB19s.5YRMF1oUpc8" displaytext="Parties email" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6j0maXwfTM0" displaytext="Inward Flows" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6UaXMfiKLkY" displaytext="Policies and procedure" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6UuUXQ97uMv" displaytext="Inward Flow  Email" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.5lnNTIYiSNU" displaytext="Self check email" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6lN5BswNZl2" displaytext="fields of an MT103 self check email" expand="false" type="slide" />
             <slidelink slideid="_player.6KwpULPB19s.5evCmW4Nk2p" displaytext="1-Coffee Email" expand="false" type="slide" />
-            <slidelink slideid="_player.6KwpULPB19s.6R6NQwaZZjv" displaytext="Course 1 email" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6KCdH7eDFxo" displaytext="Role email" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6YFNYBjAsRN" displaytext="Fields of an MT103" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6C2OLFtZAf6" displaytext="Charging Options" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6WLnLs1mnIl" displaytext="SWIFT MT103" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6JgMrt8SM5m" displaytext="self-check" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6krwdpmwplG" displaytext="Self check phone rings" expand="false" type="slide" />
+            <slidelink slideid="_player.6KwpULPB19s.6e6gjBbO3N5" displaytext="Self check phone rings" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
