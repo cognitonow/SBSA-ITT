@@ -65,6 +65,11 @@
           <option name="search" value="false" />
           <option name="pauseplay" value="false" />
           <option name="replay" value="false" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
